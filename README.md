@@ -1,5 +1,5 @@
 
-Bienvenue dans le cours ACT2035! Dans ce répertoire GitHyb, vous pouvez retrouver tout le matériel utilisé chaque session.
+Bienvenue dans le cours ACT2035! Dans ce répertoire GitHub, vous pouvez retrouver tout le matériel utilisé chaque session.
 
 En plus des donnnés que nous utilisons en classe se trouvant dans le répertoire [data](https://github.com/nmeraihi/ACT3035/tree/master/data), voic une liste des données publique que nous pourrion utiliser:
 
